@@ -1,11 +1,23 @@
-# DevOps Journey
+# DevOps Journey 🚀
 
-This repository tracks my learning journey in:
+This repository documents my journey into Cloud, DevOps, Platform Engineering, and Infrastructure.
 
-- Networking
-- Linux
-- Docker
+## Areas of Learning
+- Networking Fundamentals
+- Linux Administration
+- Docker & Containerization
 - Kubernetes
-- Terraform
-- Monitoring
-- Cloud Engineering
+- Terraform & Infrastructure as Code
+- Monitoring & Observability
+- AWS Cloud
+
+## Repository Structure
+
+```text
+DevOps-Journey
+├── applications
+├── daily-log
+├── notes
+├── projects
+├── resources
+└── scripts
