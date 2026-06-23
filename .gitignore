@@ -1,0 +1,9 @@
+.DS_Store
+.vscode/
+.env
+*.pyc
+__pycache__/
+*.log
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
